@@ -87,7 +87,7 @@ python tictactoe.py
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/bc7c385c-1938-4e9e-b3a2-63df4799a27e" />
 
 # 🚀 Future Improvements
 
