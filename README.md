@@ -77,7 +77,7 @@ Player X, enter column (0-2): 1
 
 Clone this repository:
 
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/meysiii/TIC-TAC-TOE-GAME
 cd tic-tac-toe
 
 
